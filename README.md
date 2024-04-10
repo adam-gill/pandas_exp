@@ -7,7 +7,7 @@ Findings in this little project:
 1. The average number of required years of experience for all linkedin data engineer job postings from the dataset above (I used regular expressions and pandas for this)
 2. The distribution of remote, hybrid, and onsite jobs (I used pandas for this)
 
-Dependencies:
+Dependencies (Need to be installed to run):
 1. re
 2. pandas
 3. matplotlib
